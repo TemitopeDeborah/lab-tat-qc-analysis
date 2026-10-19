@@ -4,7 +4,7 @@
 
 > **Note:** All data in this project is **simulated**. No real patient, hospital, or employer data was used.
 
-![Dashboard preview](dashboard/Dashboard.png)
+![Dashboard preview](Dashboard.png)
 
 **[View the interactive dashboard on Tableau Public]([PASTE-YOUR-TABLEAU-LINK](https://public.tableau.com/views/LabTAT_17919070053590/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))** · **[Read the full case study](PASTE-YOUR-CASE-STUDY-LINK)**
 
