@@ -6,7 +6,7 @@
 
 ![Dashboard preview](Dashboard.png)
 
-**[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/LabTAT_17919070053590/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** · **[Read the full case study](PASTE-YOUR-CASE-STUDY-LINK)**
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/LabTAT_17919070053590/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** · **[Read the full case study](https://prickle-height-02b.notion.site/Why-Is-the-Night-Shift-Slower-A-Lab-Turnaround-Time-QC-Analysis-3ff4e025c73c81a8baead622ea04c310)**
 
 ---
 
